@@ -38,5 +38,24 @@ Após inserir os valores nas **Configurações**, o investidor deve definir um v
 </table>
 
 ## Cenários 💡
+Uma vez que a quantidade de anos e valores estão definidos, os cenários darão ao investidor uma visão de quanto de patrimônio acumulado ele terá a longo prazo. Isto é, se o valor definido for investido regularmente.
+
+**Exemplo:**
+
+<table>
+    <thead>
+    <tr>
+      <th colspan="2">Patrimônio Acumulado em...</th>
+      <th>Dividendos</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr><td>2 anos</td><td>R$ 4.084,14</td><td>R$ 24,50</td></tr>
+      <tr><td>5 anos</td><td>R$ 12.566,54</td><td>R$ 75,40</td></tr>
+      <tr><td>10 anos</td><td>R$ 36.492,63</td><td>R$ 218,96</td></tr>
+      <tr><td>20 anos</td><td>R$ 168.779,76</td><td>R$ 1.012,68</td></tr>
+      <tr><td>30 anos</td><td>R$ 648.325,45</td><td>R$ 3.889,95</td></tr>
+  </tbody>
+</table>
 
 ## Perfil 🧠
