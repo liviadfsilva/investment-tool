@@ -12,6 +12,17 @@ O simulador conta com 4 ferramentas:
 - Perfil
 
 ## Configurações ⚙️
+Este simulador conta o input do investidor referente ao seu salário e rendimento de carteira e, com base nessas informações, será gerado uma sugestão de investimento de 30%.
+
+**Exemplo:**
+
+<table>
+  <tr><td>Salário</td><td>R$ 1.500,00</td></tr>
+  <tr><td>Rendimento de Carteira</td><td>0,60%</td></tr>
+  <tr><td>Sugestão de Investimento (30%)</td><td>R$ 450,00</td></tr>
+</table>
+
+Vale ressaltar que a recomendação de investir 30% com base nos valores infomrados é uma regra prática, não fixa. Começar com 5% ou 10% já é válido.
 
 ## Investimento Mensal
 
