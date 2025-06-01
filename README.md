@@ -12,7 +12,7 @@ O simulador conta com 4 ferramentas:
 - Perfil
 
 ## Configurações ⚙️
-Este simulador conta o input do investidor referente ao seu salário e rendimento de carteira e, com base nessas informações, será gerado uma sugestão de investimento de 30%.
+Esta ferramenta conta o input do investidor referente ao seu salário e rendimento de carteira e, com base nessas informações, será gerado uma sugestão de investimento de 30%.
 
 **Exemplo:**
 
@@ -24,8 +24,19 @@ Este simulador conta o input do investidor referente ao seu salário e rendiment
 
 Vale ressaltar que a recomendação de investir 30% com base nos valores infomrados é uma regra prática, não fixa. Começar com 5% ou 10% já é válido.
 
-## Investimento Mensal
+## Investimento Mensal 💸
+Após inserir os valores nas **Configurações**, o investidor deve definir um valor a ser investido regularmente por uma certa quantidade de anos. Dessa maneira, a ferramenta retornará o patrimônio acumulado e os dividendos mensais.
 
-## Cenários
+**Exemplo:**
 
-## Perfil
+<table>
+  <tr><td>Valor a Ser Investido?</td><td>R$ 150,00</td></tr>
+  <tr><td>Por Quantos Anos?</td><td>5</td></tr>
+  <tr><td>Taxa de Rendimento Mensal</td><td>1,08%</td></tr>
+  <tr><td>Patrimônio Acumulado</td><td>R$ 12.566,54</td></tr>
+  <tr><td>Dividendos Mensais</td><td>R$ 75,40</td></tr>
+</table>
+
+## Cenários 💡
+
+## Perfil 🧠
