@@ -1,11 +1,11 @@
 # 💰 Investment Tool
-Essa é uma ferramenta criado com o objetivo de simular investimentos com base no perfil do investidor, sua renda mensal, valor em mente a ser investido, e no rendimento deste valor a longo prazo.
+Essa **Ferramenta de Investimentos** é um simulador, criada com o objetivo de simular investimentos com base no perfil do investidor, sua renda mensal, valor em mente a ser investido, e no rendimento deste valor a longo prazo.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/48b8681b-5731-4c80-bc6f-8f12f368971d" alt="cat counting dollar bills">
 </p>
 
-O simulador conta com 4 ferramentas:
+A ferramenta se baseia em 4 simuladores:
 - Configurações
 - Investimento Mensal
 - Cenários
@@ -14,7 +14,7 @@ O simulador conta com 4 ferramentas:
 # Como Funciona?
 
 ## Configurações ⚙️
-Essa ferramenta conta o input do investidor referente ao seu salário e rendimento de carteira e, com base nessas informações, será gerado uma sugestão de investimento de 30%.
+Essa etapa conta o input do investidor referente ao seu salário e rendimento de carteira e, com base nessas informações, será gerado uma sugestão de investimento de 30%.
 
 **Exemplo:**
 
@@ -27,7 +27,7 @@ Essa ferramenta conta o input do investidor referente ao seu salário e rendimen
 Vale ressaltar que a recomendação de investir 30% com base nos valores infomrados é uma regra prática, não fixa. Começar com 5% ou 10% já é válido.
 
 ## Investimento Mensal 💸
-Após inserir os valores nas **Configurações**, o investidor deve definir um valor a ser investido regularmente por uma certa quantidade de anos. Dessa maneira, a ferramenta retornará o patrimônio acumulado e os dividendos mensais.
+Após inserir os valores nas **Configurações**, o investidor deve definir um valor a ser investido regularmente por uma certa quantidade de anos. Dessa maneira, o simulador retornará o patrimônio acumulado e os dividendos mensais.
 
 **Exemplo:**
 
@@ -97,6 +97,6 @@ Assim que seu perfil for selecionado, será sugerido um percentual a ser investi
 </table>
 
 # Considerações Finais 📌
-Essa ferramenta de investimento pode ser muito útil tanto para aqueles que gostariam de ter uma noção melhor do quão benéfico investir pode ser a longo prazo, mesmo que o investimento seja um valor consideravelmente baixo.
+A **Ferramenta de Investimentos** pode ser muito útil para aqueles que gostariam de ter uma noção melhor do quão benéfico investir pode se tornar a longo prazo, mesmo que o investimento seja de um valor consideravelmente baixo.
 
 Por questão de costume (e também de preferência), essa ferramenta foi feita inteiramente em inglês. No entanto, ela pode ser facilmente manuseada através deste README, que está perfeitamente detalhado sobre seu uso e objetivos. Dito isso, a funcionalidade desta ferramenta de investimentos independe do idioma para ser eficaz.
