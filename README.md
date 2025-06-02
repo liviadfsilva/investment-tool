@@ -24,7 +24,7 @@ Essa etapa conta o input do investidor referente ao seu salário e rendimento de
   <tr><td>Sugestão de Investimento (30%)</td><td>R$ 450,00</td></tr>
 </table>
 
-Vale ressaltar que a recomendação de investir 30% com base nos valores infomrados é uma regra prática, não fixa. Começar com 5% ou 10% já é válido.
+Vale ressaltar que a recomendação de investir 30% com base nos valores informados é uma regra prática, não fixa. Começar com 5% ou 10% já é válido.
 
 ## Investimento Mensal 💸
 Após inserir os valores nas **Configurações**, o investidor deve definir um valor a ser investido regularmente por uma certa quantidade de anos. Dessa maneira, o simulador retornará o patrimônio acumulado e os dividendos mensais.
