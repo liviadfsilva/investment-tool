@@ -59,3 +59,37 @@ Uma vez que a quantidade de anos e valores estão definidos, os cenários darão
 </table>
 
 ## Perfil 🧠
+Por fim, o investidor poderá selecionar o seu tipo de perfil, podendo escolher entre as seguintes opções:
+
+- Conservador
+- Moderado
+- Agressivo
+
+Assim que seu perfil for selecionado, será sugerido um percentual a ser investido em cada tipo de FII (Fundo de Investimento Imobiliário), seguido dos valores, tendo o valor definido em **Investimento Mensal** como limite.
+
+**Exemplo:**
+
+<table>
+  <tr><td>Perfil</td><td>Agressivo</td></tr>
+  <tr><td>Valor a Ser Investido</td><td>R$ 150,00</td></tr>
+</table>
+
+<br>
+
+<table>
+    <thead>
+    <tr>
+      <th>Tipo de FII</th>
+      <th>Percentual Sugerido</th>
+      <th>Valores</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr><td>Papel</td><td>50%</td><td>R$ 75,00</td></tr>
+      <tr><td>Tijolo</td><td>10%</td><td>R$ 15,00</td></tr>
+      <tr><td>Híbrido</td><td>5%</td><td>R$ 7,50</td></tr>
+      <tr><td>FOFs</td><td>5%</td><td>R$ 7,50</td></tr>
+      <tr><td>Desenvolvimento</td><td>20%</td><td>R$ 30,00</td></tr>
+      <tr><td>Hotelarias</td><td>10%</td><td>R$ 15,00</td></tr>
+  </tbody>
+</table>
