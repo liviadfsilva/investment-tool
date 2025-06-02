@@ -11,6 +11,8 @@ A ferramenta se baseia em 4 simulações:
 - Cenários
 - Perfil
 
+<br>
+
 # Como Funciona?
 
 ## Configurações ⚙️
@@ -26,6 +28,8 @@ Essa etapa conta o input do investidor referente ao seu salário e rendimento de
 
 Vale ressaltar que a recomendação de investir 30% com base nos valores informados é uma regra prática, não fixa. Começar com 5% ou 10% já é válido.
 
+<br>
+
 ## Investimento Mensal 💸
 Após inserir os valores nas **Configurações**, o investidor deve definir um valor a ser investido regularmente por uma certa quantidade de anos. Dessa maneira, o simulador retornará o patrimônio acumulado e os dividendos mensais.
 
@@ -38,6 +42,8 @@ Após inserir os valores nas **Configurações**, o investidor deve definir um v
   <tr><td>Patrimônio Acumulado</td><td>R$ 12.566,54</td></tr>
   <tr><td>Dividendos Mensais</td><td>R$ 75,40</td></tr>
 </table>
+
+<br>
 
 ## Cenários 💡
 Uma vez que a quantidade de anos e valores estão definidos, os cenários darão ao investidor uma visão de quanto de patrimônio acumulado ele terá a longo prazo. Isto é, se o valor definido for investido regularmente.
@@ -59,6 +65,8 @@ Uma vez que a quantidade de anos e valores estão definidos, os cenários darão
       <tr><td>30 anos</td><td>R$ 648.325,45</td><td>R$ 3.889,95</td></tr>
   </tbody>
 </table>
+
+<br>
 
 ## Perfil 🧠
 Por fim, o investidor poderá selecionar o seu tipo de perfil, podendo escolher entre as seguintes opções:
@@ -96,7 +104,9 @@ Assim que seu perfil for selecionado, será sugerido um percentual a ser investi
   </tbody>
 </table>
 
+<br>
+
 # Considerações Finais 📌
 A **Ferramenta de Investimentos** pode ser muito útil para aqueles que gostariam de ter uma noção melhor do quão benéfico investir pode se tornar a longo prazo, mesmo que o investimento seja de um valor consideravelmente baixo.
 
-Por questão de costume (e também de preferência), essa ferramenta foi feita inteiramente em inglês. No entanto, ela pode ser facilmente manuseada através deste README, que está perfeitamente detalhado sobre seu uso e objetivos. Dito isso, a funcionalidade desta ferramenta de investimentos independe do idioma para ser eficaz.
+Por questão de costume (e também de preferência), essa ferramenta foi feita inteiramente em inglês. No entanto, ela pode ser facilmente manuseada através deste README, que está perfeitamente detalhado sobre seu uso e objetivos. Dito isso, a funcionalidade deste simulador independe do idioma para ser eficaz.
