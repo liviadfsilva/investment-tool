@@ -11,8 +11,10 @@ O simulador conta com 4 ferramentas:
 - Cenários
 - Perfil
 
+# Como Funciona?
+
 ## Configurações ⚙️
-Esta ferramenta conta o input do investidor referente ao seu salário e rendimento de carteira e, com base nessas informações, será gerado uma sugestão de investimento de 30%.
+Essa ferramenta conta o input do investidor referente ao seu salário e rendimento de carteira e, com base nessas informações, será gerado uma sugestão de investimento de 30%.
 
 **Exemplo:**
 
@@ -93,3 +95,8 @@ Assim que seu perfil for selecionado, será sugerido um percentual a ser investi
       <tr><td>Hotelarias</td><td>10%</td><td>R$ 15,00</td></tr>
   </tbody>
 </table>
+
+# Considerações Finais 📌
+Essa ferramenta de investimento pode ser muito útil tanto para aqueles que gostariam de ter uma noção melhor do quão benéfico investir pode ser a longo prazo, mesmo que o investimento seja um valor consideravelmente baixo.
+
+Por questão de costume (e também de preferência), essa ferramenta foi feita inteiramente em inglês. No entanto, ela pode ser facilmente manuseada através deste README, que está perfeitamente detalhado sobre seu uso e objetivos. Dito isso, a funcionalidade desta ferramenta de investimentos independe do idioma para ser eficaz.
