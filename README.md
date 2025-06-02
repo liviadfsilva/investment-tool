@@ -5,7 +5,7 @@ Essa **Ferramenta de Investimentos** é um simulador, criada com o objetivo de s
   <img src="https://github.com/user-attachments/assets/48b8681b-5731-4c80-bc6f-8f12f368971d" alt="cat counting dollar bills">
 </p>
 
-A ferramenta se baseia em 4 simuladores:
+A ferramenta se baseia em 4 somulações:
 - Configurações
 - Investimento Mensal
 - Cenários
