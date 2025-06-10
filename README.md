@@ -13,7 +13,7 @@ A ferramenta se baseia em 4 simulações:
 
 <br>
 
-# Como Funciona?
+# Como Funciona? 🌀
 
 ## Configurações ⚙️
 Essa etapa conta o input do investidor referente ao seu salário e rendimento de carteira e, com base nessas informações, será gerado uma sugestão de investimento de 30%.
